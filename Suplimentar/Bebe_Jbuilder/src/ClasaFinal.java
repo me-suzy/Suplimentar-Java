@@ -1,0 +1,12 @@
+
+  public class ClasaFinal {
+    public static void main(String args[]) {
+      C obiect = new C();
+      System.out.println(obiect.x);
+    }
+  }
+
+
+
+
+

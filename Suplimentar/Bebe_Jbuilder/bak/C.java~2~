@@ -1,0 +1,15 @@
+public final class C extends Object {
+final class C {
+  int x = 5;
+}
+
+public class ClasaFinal {
+  public static void main(String args[]) {
+    C obiect = new C();
+    System.out.println(obiect.x);
+  }
+}
+
+
+
+
